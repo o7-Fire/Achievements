@@ -12,6 +12,7 @@
 - get an io admin's uuid and caused chaos in io
 - have about 7 spys in io mod team and closed chats
 - became neutral to CN, allies with CAMS and routerchain, and enemies with io and ru
+- gained access in io's ssh and managed to delete everything
 
 # General
 
