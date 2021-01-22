@@ -4,17 +4,16 @@
 
 - Created a mindustry server crasher by custom client
 - Created another server crasher but this time a bug on the client end
-- mass panic
+- causing terror everywhere
 - first griefing client to bypass kicks and bans
 - first griefing client ever made
-- anuke tries to patch uuid changer but unable since ozone code complex af
+- win in client evasion war (uuid) because of some dedicated dev
 - mass destruction on io with tons of bots
-- get an io admin's uuid and caused chaos in io
-- have about 3-12 spys in io mod team and closed chats
-- became neutral to CN, allies with CAMS and routerchain, and enemies with io and ru
+- influencing mindustry in some way
 - gained access in io's ssh and managed to delete everything
-- uuid banned 100+ people
-
+- uuid banned 100+ 
+- somehow get admin on tk, and io 
+- manage to stall tk server for 4 hour
 # General
 
 - infiltrating foreign government program
