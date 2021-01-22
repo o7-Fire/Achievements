@@ -2,7 +2,8 @@
 - [x] check mark = fact check
 # Mindustry
 
-- [x] accidentally make a server crasher and manage to crash almost all server in 2 hour [Source](Mindustry Discord Search: during: 2019-11-17 crash) [Patch-Link](https://discord.com/channels/391020510269669376/396416151032299521/645572630707044378)
+- [x] accidentally make a server crasher and manage to crash almost all server in 2 hour
+- [Source](Mindustry Discord Search: during: 2019-11-17 crash) [Patch-Link](https://discord.com/channels/391020510269669376/396416151032299521/645572630707044378)
 - [x] accidentally make a client crasher causing other client to crash/disconnect while the custom client manage to survive (sorter shuffle, illegal fluid to item bridge) 
 - [x] causing terror on mindustry 
 - [x] first distributed griefing client to bypass kicks and ban
@@ -16,7 +17,7 @@
 - [x] manage to stall tk server for 4 hour by spawning 20k reaper
 # General
 
-- [x] infiltrating foreign government program
+- [x] infiltrating foreign government program with zoom, google meet, etc
 - managed to crash a website
 - [x] managed to barely create Battleye emulation on client side 
 - made an effective ddos tool
