@@ -12,7 +12,7 @@
 - influencing mindustry in some way
 - gained access in io's ssh and managed to delete everything
 - uuid banned 100+ 
-- somehow get admin on tk, and io 
+- somehow get admin on tk and spawned 9000 eradicators
 - manage to stall tk server for 4 hour
 # General
 
