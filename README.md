@@ -18,6 +18,9 @@
 
 - infiltrating foreign government program
 - managed to crash a website
+- managed to barely create Battleye emulation on client side 
+- managed to ban itzben from a game 
+![](https://media.discordapp.net/attachments/713346278003572777/801373178445955102/unknown.png?width=475&height=68)
 - managed to create a website
 - made a quite effective ddos tool
 
