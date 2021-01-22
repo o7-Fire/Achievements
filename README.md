@@ -1,4 +1,4 @@
-[](https://cdn.discordapp.com/attachments/796869250533818418/801986737856839680/unknown.png)
+![](https://cdn.discordapp.com/attachments/796869250533818418/801986737856839680/unknown.png)
 
 # Mindustry
 
