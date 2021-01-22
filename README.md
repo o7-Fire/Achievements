@@ -16,3 +16,4 @@
 - infiltrating foreign government program
 - managed to crash a website
 - managed to barely create Battleye emulation on client side 
+- stole an apc
