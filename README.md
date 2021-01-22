@@ -1,3 +1,5 @@
+[](https://cdn.discordapp.com/attachments/796869250533818418/801986737856839680/unknown.png)
+
 # Mindustry
 
 - Created a mindustry server crasher by custom client
@@ -13,5 +15,3 @@
 
 - infiltrating foreign government program
 - managed to crash a website
-
-![](https://cdn.discordapp.com/attachments/796869250533818418/801986737856839680/unknown.png)
