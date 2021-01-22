@@ -1,4 +1,4 @@
-![](https://cdn.discordapp.com/attachments/796869250533818418/801986737856839680/unknown.png)
+[](https://cdn.discordapp.com/attachments/796869250533818418/801986737856839680/unknown.png)
 
 # Mindustry
 
@@ -10,9 +10,16 @@
 - anuke tries to patch uuid changer but unable since ozone code complex af
 - mass destruction on io with tons of bots
 - get an io admin's uuid and caused chaos in io
+- have about 7 spys in io mod team and closed chats
+- create O7 griefing broadcasting system where all the griefers in the world can stream griefing
+- piss off anuke and make him remove uuids
 
 # General
 
 - infiltrating foreign government program
 - managed to crash a website
-- managed to barely create Battleye emulation on client side 
+- managed to create a website
+- made a quite effective ddos tool
+
+# Roblox
+- PCAUA (https://docs.google.com/document/d/1_jo64OJzEv0bCLz6ttOJf02lBt5Fu_oI7PekjoXTxCc)
