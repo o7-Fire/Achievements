@@ -8,9 +8,9 @@
 - [x] first distributed griefing client to bypass kicks and ban
 - [x] first distributed griefing client ever made 
 - [x] win in client evasion war (uuid) because of some dedicated dev 
-- mass destruction on io with tons of bots
+- [x] mass destruction on io with tons of bots
 - [x] influencing mindustry in some way
-- gained access in io's ssh and managed to delete everything
+- [x] gained access in io's ssh and managed to delete everything
 - [x] uuid banned 100+ 
 - [x] somehow get admin on tk, and io 
 - [x] manage to stall tk server for 4 hour by spawning 20k reaper
