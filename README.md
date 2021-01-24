@@ -17,7 +17,7 @@
 - [x] manage to stall tk server for 4 hour by spawning 20k reaper
 # General
 
-- [x] infiltrating foreign government program with zoom, google meet, etc
+- [x] infiltrating foreign government program by getting all wrong answers on cia tests
 - managed to crash a website
 - [x] managed to barely create Battleye emulation on client side 
 - made an effective ddos tool
