@@ -18,6 +18,7 @@
 # General
 
 - [x] infiltrating foreign government program by getting all wrong answers on cia tests
-- managed to crash a website
+- [x] managed to crash a website
 - [x] managed to barely create Battleye emulation on client side 
-- made an effective ddos tool
+- [x] made an effective ddos tool
+- [x] infiltrating CCTV ip camera and geolocating it with 1mm precision
