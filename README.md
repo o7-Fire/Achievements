@@ -22,3 +22,8 @@
 - [x] managed to barely create Battleye emulation on client side 
 - [x] made an effective ddos tool
 - [x] infiltrating CCTV ip camera and geolocating it with 1mm precision
+
+# Source
+- [x] Fact checked by 3 letter agency
+- [x] Fact checked by Obama
+- [x] Fact checked by Joe Biden
