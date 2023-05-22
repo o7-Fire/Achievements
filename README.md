@@ -22,6 +22,8 @@
 - [x] managed to barely create Battleye emulation on client side 
 - [x] made an effective ddos tool
 - [x] infiltrating CCTV ip camera and geolocating it with 1mm precision
+- [x] scrapped entire nhentai cdn into entire harddrive 2TB with their metadata
+
 
 # Source
 - [x] Fact checked by 3 letter agency
