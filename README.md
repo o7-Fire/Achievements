@@ -23,7 +23,8 @@
 - [x] made an effective ddos tool
 - [x] infiltrating CCTV ip camera and geolocating it with 1mm precision
 - [x] scrapped entire nhentai cdn into entire harddrive 2TB with their metadata
-
+- [x] wasted $3000+ on cloud computing
+- [x] architected multi-region multi-az fault-tolerant active-active load-balanced geo-routing nsfw image detector api
 
 # Source
 - [x] Fact checked by 3 letter agency
