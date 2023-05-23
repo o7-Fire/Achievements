@@ -23,6 +23,8 @@
 - [x] made an effective ddos tool
 - [x] infiltrating CCTV ip camera and geolocating it with 1mm precision
 - [x] scrapped entire nhentai cdn into entire harddrive 2TB with their metadata
+- [x] scrapped entire roblox user database profile cdn and id around 100gb
+- [x] get 200k commits on a github account within the span of 10 days
 - [x] wasted $3000+ on cloud computing
 - [x] architected multi-region multi-az fault-tolerant active-active load-balanced geo-routing nsfw image detector api
 
