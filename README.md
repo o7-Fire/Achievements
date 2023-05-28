@@ -15,6 +15,7 @@
 - [x] uuid banned 100+ 
 - [x] somehow get admin on tk, and io 
 - [x] manage to stall tk server for 4 hour by spawning 20k reaper
+- [x] almost stalled mindustry community by using anuke's volatility
 # General
 
 - [x] infiltrating foreign government program by getting all wrong answers on cia tests
@@ -27,6 +28,9 @@
 - [x] get 200k commits on a github account within the span of 10 days
 - [x] wasted $3000+ on cloud computing
 - [x] architected multi-region multi-az fault-tolerant active-active load-balanced geo-routing nsfw image detector api
+- [x] made a game that currently gets 20k visitors weekly (not excluding scrapers)
+- [x] 70k+ out of F r 4 0 d 
+
 
 # Source
 - [x] Fact checked by 3 letter agency
