@@ -16,6 +16,12 @@
 - [x] somehow get admin on tk, and io 
 - [x] manage to stall tk server for 4 hour by spawning 20k reaper
 - [x] almost stalled mindustry community by using anuke's volatility
+- [x] reverse engineer arcnet
+- [x] mindustry serverlist successfully stalled for 24 hours
+- [Source](Mindustry Discord Search: during: 2023-11-05 down) [Patch-Link](https://github.com/Omega-Network/ohiodustry)
+- [x] second anuke's fuck you
+![image](https://github.com/o7-Fire/Achievements/assets/60143910/6ade117f-ebea-4a0b-955f-2d22c85eb09c)
+     
 # General
 
 - [x] infiltrating foreign government program by getting all wrong answers on cia tests
