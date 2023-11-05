@@ -19,7 +19,8 @@
 - [x] reverse engineer arcnet
 - [x] mindustry serverlist successfully stalled for 24 hours
 - [Source](Mindustry Discord Search: during: 2023-11-05 down) [Patch-Link](https://github.com/Omega-Network/ohiodustry)
-- [x] second anuke's fuck you
+- [x] second anuke "fuck you"
+
 ![image](https://github.com/o7-Fire/Achievements/assets/60143910/6ade117f-ebea-4a0b-955f-2d22c85eb09c)
      
 # General
