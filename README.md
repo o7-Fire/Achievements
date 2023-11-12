@@ -36,10 +36,12 @@
 - [x] wasted $3000+ on cloud computing
 - [x] architected multi-region multi-az fault-tolerant active-active load-balanced geo-routing nsfw image detector api
 - [x] made a game that currently gets 20k visitors weekly (not excluding scrapers)
-- [x] 70k+ out of F r 4 0 d 
+- [x] 70k+ out of F r 4 0 d
+- [X] Attack on Gaijin.net store (fuck snail)
 
 
 # Source
 - [x] Fact checked by 3 letter agency
 - [x] Fact checked by Obama
 - [x] Fact checked by Joe Biden
+- [x] [Fact checked by Gajingles](https://warthunder.com/en/news/8583-ddos-attack-on-gaijinnet-store-en)
